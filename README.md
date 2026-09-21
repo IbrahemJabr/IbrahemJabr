@@ -3,12 +3,11 @@
 # Hi, I'm Ibrahim Jabr 👋
 
 ### Computer Science Student | Software & Web Developer
-
-طالب جامعي مهتم بتطوير البرمجيات، تقنيات الويب، الشبكات، قواعد البيانات، تحليل الأنظمة وتصميمها.
+University student interested in software development, web technologies, networking, databases, and systems analysis and design..
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Programming+%26+Web+Development;Networks+%26+Database+Systems;System+Analysis+%26+Design;Always+Learning+and+Building" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2f81f7&label=Profile+Views)
+
 
 </div>
 
